@@ -7,7 +7,7 @@
 // Description of the Program (2-3 sentences): Small Lisp interpreter with basic functionality.
 // Date Written: 11/24/2015
 // Date Revised: 11/24/2015
-
+#include <cstdlib>
 #include <map>
 #include <iostream>
 #include <stack>
